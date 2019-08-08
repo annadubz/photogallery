@@ -1,0 +1,23 @@
+h1{
+  font-style: arial;
+  background-color: royalblue;
+  border:black;
+  text-align: center;
+}
+.familyguy{
+border: dashed black;
+height: 1000px;
+width:1400px;
+}
+
+h2{
+  font-style: arial;
+  background-color: royalblue;
+  border:black;
+  text-align: center;
+}
+.americandad{
+  border: dashed black;
+  height: 1000;
+  width: 1400;
+}
